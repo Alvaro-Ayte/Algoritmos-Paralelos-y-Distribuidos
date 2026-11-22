@@ -1,0 +1,5 @@
+registros=6439925
+estaciones=12219
+anomalias=10285
+tiempo_seg=41.94
+executors_default_parallelism=4
